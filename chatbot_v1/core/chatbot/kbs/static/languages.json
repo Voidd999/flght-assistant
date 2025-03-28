@@ -1,0 +1,30 @@
+{
+    "ar": {
+        "code": "ar",
+        "variants": ["ar-sa", "ar-ae", "ar-kw", "ar-om"]
+    },
+    "en": {
+        "code": "en-US",
+        "variants": ["en", "en-gb", "en-au", "en-ca"]
+    },
+    "tr": {
+        "code": "tr",
+        "variants": ["tr-tr"]
+    },
+    "ur": {
+        "code": "ur",
+        "variants": ["ur-pk"]
+    },
+    "hi": {
+        "code": "hi",
+        "variants": ["hi-in"]
+    },
+    "fr": {
+        "code": "fr",
+        "variants": ["fr-fr", "fr-ca", "fr-be"]
+    },
+    "de": {
+        "code": "de",
+        "variants": ["de-de", "de-at", "de-ch"]
+    }
+} 

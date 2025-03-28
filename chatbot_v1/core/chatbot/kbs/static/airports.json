@@ -1,0 +1,854 @@
+[
+  {
+      "name": "Abha Regional Airport",
+      "iataCode": "AHB",
+      "city": {
+          "name": "Abha"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Abha, AHB, SA"
+  },
+  {
+      "name": "Abu Dhabi International Airport",
+      "iataCode": "AUH",
+      "city": {
+          "name": "Abu Dhabi"
+      },
+      "country": {
+          "isoCode": "AE",
+          "name": "United Arab Emirates"
+      },
+      "locationLabel": "Abu Dhabi, AUH, AE"
+  },
+  {
+      "name": "Addis Ababa Airport",
+      "iataCode": "ADD",
+      "city": {
+          "name": "Addis Ababa"
+      },
+      "country": {
+          "isoCode": "ET",
+          "name": "Ethiopia"
+      },
+      "locationLabel": "Addis Ababa, ADD, ET"
+  },
+  {
+      "name": "Al-Jouf Domestic Airport",
+      "iataCode": "AJF",
+      "city": {
+          "name": "Al Jouf"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Al Jouf, AJF, SA"
+  },
+  {
+      "name": "Prince Abdul Majeed bin Abdul Aziz Domestic Airport",
+      "iataCode": "ULH",
+      "city": {
+          "name": "AlUla"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "AlUla, ULH, SA"
+  },
+  {
+      "name": "Houari Boumediene Airport",
+      "iataCode": "ALG",
+      "city": {
+          "name": "Algiers"
+      },
+      "country": {
+          "isoCode": "DZ",
+          "name": "Algeria"
+      },
+      "locationLabel": "Algiers, ALG, DZ"
+  },
+  {
+      "name": "Almaty International Airport",
+      "iataCode": "ALA",
+      "city": {
+          "name": "Almaty"
+      },
+      "country": {
+          "isoCode": "KZ",
+          "name": "Kazakhstan"
+      },
+      "locationLabel": "Almaty, ALA, KZ"
+  },
+  {
+      "name": "Queen Alia International Airport",
+      "iataCode": "AMM",
+      "city": {
+          "name": "Amman"
+      },
+      "country": {
+          "isoCode": "JO",
+          "name": "Jordan"
+      },
+      "locationLabel": "Amman, AMM, JO"
+  },
+  {
+      "name": "Ankara Esenboga International Airport",
+      "iataCode": "ESB",
+      "city": {
+          "name": "Ankara"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Ankara, ESB, TR"
+  },
+  {
+      "name": "Hatay Airport",
+      "iataCode": "HTY",
+      "city": {
+          "name": "Antakya (Hatay)"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Antakya (Hatay), HTY, TR"
+  },
+  {
+      "name": "Antalya Airport",
+      "iataCode": "AYT",
+      "city": {
+          "name": "Antalya"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Antalya, AYT, TR"
+  },
+  {
+      "name": "Asmara International Airport",
+      "iataCode": "ASM",
+      "city": {
+          "name": "Asmara"
+      },
+      "country": {
+          "isoCode": "ER",
+          "name": "Eritrea"
+      },
+      "locationLabel": "Asmara, ASM, ER"
+  },
+  {
+      "name": "Baghdad International Airport",
+      "iataCode": "BGW",
+      "city": {
+          "name": "Baghdad"
+      },
+      "country": {
+          "isoCode": "IQ",
+          "name": "Iraq"
+      },
+      "locationLabel": "Baghdad, BGW, IQ"
+  },
+  {
+      "name": "Bahrain International Airport",
+      "iataCode": "BAH",
+      "city": {
+          "name": "Bahrain"
+      },
+      "country": {
+          "isoCode": "BH",
+          "name": "Kingdom of Bahrain"
+      },
+      "locationLabel": "Bahrain, BAH, BH"
+  },
+  {
+      "name": "Heydar Aliyev International Airport",
+      "iataCode": "GYD",
+      "city": {
+          "name": "Baku"
+      },
+      "country": {
+          "isoCode": "AZ",
+          "name": "Azerbaijan"
+      },
+      "locationLabel": "Baku, GYD, AZ"
+  },
+  {
+      "name": "Batumi International Airport",
+      "iataCode": "BUS",
+      "city": {
+          "name": "Batumi"
+      },
+      "country": {
+          "isoCode": "GE",
+          "name": "Georgia"
+      },
+      "locationLabel": "Batumi, BUS, GE"
+  },
+  {
+      "name": "Berlin (All Airports)",
+      "iataCode": "BER",
+      "city": {
+          "name": "Berlin"
+      },
+      "country": {
+          "isoCode": "DE",
+          "name": "Germany"
+      },
+      "locationLabel": "Berlin, BER, DE"
+  },
+  {
+      "name": "Manas International Airport",
+      "iataCode": "FRU",
+      "city": {
+          "name": "Bishkek"
+      },
+      "country": {
+          "isoCode": "KG",
+          "name": "Kyrgyzstan"
+      },
+      "locationLabel": "Bishkek, FRU, KG"
+  },
+  {
+      "name": "Bodrum Milas Airport",
+      "iataCode": "BJV",
+      "city": {
+          "name": "Bodrum"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Bodrum, BJV, TR"
+  },
+  {
+      "name": "Brussels Airport",
+      "iataCode": "BRU",
+      "city": {
+          "name": "Brussels"
+      },
+      "country": {
+          "isoCode": "BE",
+          "name": "Belgium"
+      },
+      "locationLabel": "Brussels, BRU, BE"
+  },
+  {
+      "name": "Cairo International Airport",
+      "iataCode": "CAI",
+      "city": {
+          "name": "Cairo"
+      },
+      "country": {
+          "isoCode": "EG",
+          "name": "Egypt"
+      },
+      "locationLabel": "Cairo, CAI, EG"
+  },
+  {
+      "name": "Sphinx International Airport",
+      "iataCode": "SPX",
+      "city": {
+          "name": "Cairo, Sphinx"
+      },
+      "country": {
+          "isoCode": "EG",
+          "name": "Egypt"
+      },
+      "locationLabel": "Cairo, Sphinx, SPX, EG"
+  },
+  {
+      "name": "Kozhikode International Airport",
+      "iataCode": "CCJ",
+      "city": {
+          "name": "Calicut"
+      },
+      "country": {
+          "isoCode": "IN",
+          "name": "India"
+      },
+      "locationLabel": "Calicut, CCJ, IN"
+  },
+  {
+      "name": "Mohammed V Airport",
+      "iataCode": "CMN",
+      "city": {
+          "name": "Casablanca"
+      },
+      "country": {
+          "isoCode": "MA",
+          "name": "Morocco"
+      },
+      "locationLabel": "Casablanca, CMN, MA"
+  },
+  {
+      "name": "Mohamed Boudiaf International Airport",
+      "iataCode": "CZL",
+      "city": {
+          "name": "Constantine"
+      },
+      "country": {
+          "isoCode": "DZ",
+          "name": "Algeria"
+      },
+      "locationLabel": "Constantine, CZL, DZ"
+  },
+  {
+      "name": "King Fahd International Airport",
+      "iataCode": "DMM",
+      "city": {
+          "name": "Dammam"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Dammam, DMM, SA"
+  },
+  {
+      "name": "Indira Gandhi International Airport",
+      "iataCode": "DEL",
+      "city": {
+          "name": "Delhi"
+      },
+      "country": {
+          "isoCode": "IN",
+          "name": "India"
+      },
+      "locationLabel": "Delhi, DEL, IN"
+  },
+  {
+      "name": "Djibouti–Ambouli International Airport",
+      "iataCode": "JIB",
+      "city": {
+          "name": "Djibouti"
+      },
+      "country": {
+          "isoCode": "DJ",
+          "name": "Republic of Djibouti"
+      },
+      "locationLabel": "Djibouti, JIB, DJ"
+  },
+  {
+      "name": "Doha International Airport",
+      "iataCode": "DOH",
+      "city": {
+          "name": "Doha"
+      },
+      "country": {
+          "isoCode": "QA",
+          "name": "Qatar"
+      },
+      "locationLabel": "Doha, DOH, QA"
+  },
+  {
+      "name": "Dubai World Central - Al Maktoum International Airport",
+      "iataCode": "DWC",
+      "city": {
+          "name": "Dubai"
+      },
+      "country": {
+          "isoCode": "AE",
+          "name": "United Arab Emirates"
+      },
+      "locationLabel": "Dubai, DWC, AE"
+  },
+  {
+      "name": "Dubai International Airport",
+      "iataCode": "DXB",
+      "city": {
+          "name": "Dubai"
+      },
+      "country": {
+          "isoCode": "AE",
+          "name": "United Arab Emirates"
+      },
+      "locationLabel": "Dubai, DXB, AE"
+  },
+  {
+      "name": "Entebbe International Airport",
+      "iataCode": "EBB",
+      "city": {
+          "name": "Entebbe"
+      },
+      "country": {
+          "isoCode": "UG",
+          "name": "Uganda"
+      },
+      "locationLabel": "Entebbe, EBB, UG"
+  },
+  {
+      "name": "Erbil International Airport",
+      "iataCode": "EBL",
+      "city": {
+          "name": "Erbil"
+      },
+      "country": {
+          "isoCode": "IQ",
+          "name": "Iraq"
+      },
+      "locationLabel": "Erbil, EBL, IQ"
+  },
+  {
+      "name": "Ha'il Regional Airport",
+      "iataCode": "HAS",
+      "city": {
+          "name": "Hail"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Hail, HAS, SA"
+  },
+  {
+      "name": "Hurghada International Airport",
+      "iataCode": "HRG",
+      "city": {
+          "name": "Hurghada"
+      },
+      "country": {
+          "isoCode": "EG",
+          "name": "Egypt"
+      },
+      "locationLabel": "Hurghada, HRG, EG"
+  },
+  {
+      "name": "Rajiv Gandhi International Airport",
+      "iataCode": "HYD",
+      "city": {
+          "name": "Hyderabad"
+      },
+      "country": {
+          "isoCode": "IN",
+          "name": "India"
+      },
+      "locationLabel": "Hyderabad, HYD, IN"
+  },
+  {
+      "name": "Islamabad International Airport",
+      "iataCode": "ISB",
+      "city": {
+          "name": "Islamabad"
+      },
+      "country": {
+          "isoCode": "PK",
+          "name": "Pakistan"
+      },
+      "locationLabel": "Islamabad, ISB, PK"
+  },
+  {
+      "name": "Ataturk Airport",
+      "iataCode": "IST",
+      "city": {
+          "name": "Istanbul"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Istanbul, IST, TR"
+  },
+  {
+      "name": "Sabiha Gökçen International Airport",
+      "iataCode": "SAW",
+      "city": {
+          "name": "Istanbul"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Istanbul, SAW, TR"
+  },
+  {
+      "name": "King Abdulaziz International Airport",
+      "iataCode": "JED",
+      "city": {
+          "name": "Jeddah"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Jeddah, JED, SA"
+  },
+  {
+      "name": "Jizan Regional Airport",
+      "iataCode": "GIZ",
+      "city": {
+          "name": "Jizan"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Jizan, GIZ, SA"
+  },
+  {
+      "name": "Jinnah International Airport",
+      "iataCode": "KHI",
+      "city": {
+          "name": "Karachi"
+      },
+      "country": {
+          "isoCode": "PK",
+          "name": "Pakistan"
+      },
+      "locationLabel": "Karachi, KHI, PK"
+  },
+  {
+      "name": "Kuwait International Airport",
+      "iataCode": "KWI",
+      "city": {
+          "name": "Kuwait City"
+      },
+      "country": {
+          "isoCode": "KW",
+          "name": "Kuwait"
+      },
+      "locationLabel": "Kuwait City, KWI, KW"
+  },
+  {
+      "name": "Allama Iqbal International Airport",
+      "iataCode": "LHE",
+      "city": {
+          "name": "Lahore"
+      },
+      "country": {
+          "isoCode": "PK",
+          "name": "Pakistan"
+      },
+      "locationLabel": "Lahore, LHE, PK"
+  },
+  {
+      "name": "Chaudhary Charan Singh Airport",
+      "iataCode": "LKO",
+      "city": {
+          "name": "Lucknow"
+      },
+      "country": {
+          "isoCode": "IN",
+          "name": "India"
+      },
+      "locationLabel": "Lucknow, LKO, IN"
+  },
+  {
+      "name": "Marseille Airport",
+      "iataCode": "MRS",
+      "city": {
+          "name": "Marseille"
+      },
+      "country": {
+          "isoCode": "FR",
+          "name": "France"
+      },
+      "locationLabel": "Marseille, MRS, FR"
+  },
+  {
+      "name": "Prince Mohammad Bin Abdulaziz International Airport",
+      "iataCode": "MED",
+      "city": {
+          "name": "Medina"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Medina, MED, SA"
+  },
+  {
+      "name": "Mumbai Airport",
+      "iataCode": "BOM",
+      "city": {
+          "name": "Mumbai"
+      },
+      "country": {
+          "isoCode": "IN",
+          "name": "India"
+      },
+      "locationLabel": "Mumbai, BOM, IN"
+  },
+  {
+      "name": "Jomo Kenyatta International Airport",
+      "iataCode": "NBO",
+      "city": {
+          "name": "Nairobi"
+      },
+      "country": {
+          "isoCode": "KE",
+          "name": "Kenya"
+      },
+      "locationLabel": "Nairobi, NBO, KE"
+  },
+  {
+      "name": "Al Najaf International Airport",
+      "iataCode": "NJF",
+      "city": {
+          "name": "Najaf"
+      },
+      "country": {
+          "isoCode": "IQ",
+          "name": "Iraq"
+      },
+      "locationLabel": "Najaf, NJF, IQ"
+  },
+  {
+      "name": "Najran Domestic Airport",
+      "iataCode": "EAM",
+      "city": {
+          "name": "Najran"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Najran, EAM, SA"
+  },
+  {
+      "name": "Namangan Airport",
+      "iataCode": "NMA",
+      "city": {
+          "name": "Namangan"
+      },
+      "country": {
+          "isoCode": "UZ",
+          "name": "Uzbekistan"
+      },
+      "locationLabel": "Namangan, NMA, UZ"
+  },
+  {
+      "name": "El Alamein International Airport",
+      "iataCode": "DBB",
+      "city": {
+          "name": "North Coast"
+      },
+      "country": {
+          "isoCode": "EG",
+          "name": "Egypt"
+      },
+      "locationLabel": "North Coast, DBB, EG"
+  },
+  {
+      "name": "Osh Airport",
+      "iataCode": "OSS",
+      "city": {
+          "name": "Osh"
+      },
+      "country": {
+          "isoCode": "KG",
+          "name": "Kyrgyzstan"
+      },
+      "locationLabel": "Osh, OSS, KG"
+  },
+  {
+      "name": "Ruzyne International Airport",
+      "iataCode": "PRG",
+      "city": {
+          "name": "Prague"
+      },
+      "country": {
+          "isoCode": "CZ",
+          "name": "Czech Republic"
+      },
+      "locationLabel": "Prague, PRG, CZ"
+  },
+  {
+      "name": "Prince Nayef bin Abdulaziz Regional Airport",
+      "iataCode": "ELQ",
+      "city": {
+          "name": "Qassim"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Qassim, ELQ, SA"
+  },
+  {
+      "name": "Red Sea International Airport",
+      "iataCode": "RSI",
+      "city": {
+          "name": "Red Sea"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Red Sea, RSI, SA"
+  },
+  {
+      "name": "King Kalid International Airport",
+      "iataCode": "RUH",
+      "city": {
+          "name": "Riyadh"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Riyadh, RUH, SA"
+  },
+  {
+      "name": "Salalah Airport",
+      "iataCode": "SLL",
+      "city": {
+          "name": "Salalah"
+      },
+      "country": {
+          "isoCode": "OM",
+          "name": "Oman"
+      },
+      "locationLabel": "Salalah, SLL, OM"
+  },
+  {
+      "name": "W. A. Mozart Airport",
+      "iataCode": "SZG",
+      "city": {
+          "name": "Salzburg"
+      },
+      "country": {
+          "isoCode": "AT",
+          "name": "Austria"
+      },
+      "locationLabel": "Salzburg, SZG, AT"
+  },
+  {
+      "name": "Butmir International Airport",
+      "iataCode": "SJJ",
+      "city": {
+          "name": "Sarajevo"
+      },
+      "country": {
+          "isoCode": "BA",
+          "name": "Bosnia and Herzegovina"
+      },
+      "locationLabel": "Sarajevo, SJJ, BA"
+  },
+  {
+      "name": "Sharjah International Airport",
+      "iataCode": "SHJ",
+      "city": {
+          "name": "Sharjah"
+      },
+      "country": {
+          "isoCode": "AE",
+          "name": "United Arab Emirates"
+      },
+      "locationLabel": "Sharjah, SHJ, AE"
+  },
+  {
+      "name": "Sharm el-Sheikh International Airport",
+      "iataCode": "SSH",
+      "city": {
+          "name": "Sharm El Sheikh"
+      },
+      "country": {
+          "isoCode": "EG",
+          "name": "Egypt"
+      },
+      "locationLabel": "Sharm El Sheikh, SSH, EG"
+  },
+  {
+      "name": "Sohag International Airport",
+      "iataCode": "HMB",
+      "city": {
+          "name": "Sohag"
+      },
+      "country": {
+          "isoCode": "EG",
+          "name": "Egypt"
+      },
+      "locationLabel": "Sohag, HMB, EG"
+  },
+  {
+      "name": "Tabuk Regional Airport",
+      "iataCode": "TUU",
+      "city": {
+          "name": "Tabuk"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Tabuk, TUU, SA"
+  },
+  {
+      "name": "Taif Airport",
+      "iataCode": "TIF",
+      "city": {
+          "name": "Taif"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Taif, TIF, SA"
+  },
+  {
+      "name": "Tashkent International Airport",
+      "iataCode": "TAS",
+      "city": {
+          "name": "Tashkent"
+      },
+      "country": {
+          "isoCode": "UZ",
+          "name": "Uzbekistan"
+      },
+      "locationLabel": "Tashkent, TAS, UZ"
+  },
+  {
+      "name": "Tbilisi International Airport",
+      "iataCode": "TBS",
+      "city": {
+          "name": "Tbilisi"
+      },
+      "country": {
+          "isoCode": "GE",
+          "name": "Georgia"
+      },
+      "locationLabel": "Tbilisi, TBS, GE"
+  },
+  {
+      "name": "Trabzon Airport",
+      "iataCode": "TZX",
+      "city": {
+          "name": "Trabzon"
+      },
+      "country": {
+          "isoCode": "TR",
+          "name": "Turkey"
+      },
+      "locationLabel": "Trabzon, TZX, TR"
+  },
+  {
+      "name": "Vienna International Airport",
+      "iataCode": "VIE",
+      "city": {
+          "name": "Vienna"
+      },
+      "country": {
+          "isoCode": "AT",
+          "name": "Austria"
+      },
+      "locationLabel": "Vienna, VIE, AT"
+  },
+  {
+      "name": "Yanbu Airport",
+      "iataCode": "YNB",
+      "city": {
+          "name": "Yanbu"
+      },
+      "country": {
+          "isoCode": "SA",
+          "name": "Saudi Arabia"
+      },
+      "locationLabel": "Yanbu, YNB, SA"
+  }
+]
